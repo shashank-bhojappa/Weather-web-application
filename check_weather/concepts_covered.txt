@@ -1,0 +1,2 @@
+1. Using API from website https://openweathermap.org/current
+to get weather information by providing the API key and city name
